@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "title": "Ramza Beoulve",
+      "color": "#0295ff",
+      "job": "n/a",
+      "image": "img/FFT_Ramza_Beoulve.png",
+      "love": "+10"
+    },
+    {
+      "title": "Cloud Strife",
+      "color": "#0295ff",
+      "job": "Soldier",
+      "image": "img/FFT_Cloud_Strife.png",
+      "love": "+9"
+    },
+    {
+      "title": "Dycedarg Beoulve",
+      "color": "#f51417",
+      "job": "Rune Knight",
+      "image": "img/FFT_Dycedarg_Beoulve.png",
+      "love": "-10"
+    },
+    {
+      "title": "Cidolfus Orlandeau",
+      "color": "#0295ff",
+      "job": "Sword Saint",
+      "image": "img/FFT_Cidolfus_Orlandeau.png",
+      "love": "+10"
+    },
+    {
+      "title": "Male Summoner",
+      "color": "#0295ff",
+      "job": "Summoner",
+      "image": "img/FFT_Summoner_Male.png",
+      "love": "+8"
+    },
+    {
+      "title": "Loffrey Wodring",
+      "color": "#f51417",
+      "job": "Divine Knight",
+      "image": "img/FFT_Loffrey_Wodring.png",
+      "love": "-3"
+    }
+  ]
+}
